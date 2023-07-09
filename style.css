@@ -97,8 +97,6 @@ section {
     justify-content: center;
     flex-flow: column;
     background: url(images/bg.png) no-repeat;
-    background-size: auto;
-
     background-position: center;
     background-attachment: fixed;
     position: relative;
