@@ -327,13 +327,6 @@ span {
     gap: 2rem;
 }
 
-.item .box-container .box img {
-    height: 20rem;
-    width: 100%;
-    object-fit: cover;
-    border: 3px solid rgb(186, 100, 167);
-}
-
 .item .box-container .box .content {
     padding: 1rem;
 }
